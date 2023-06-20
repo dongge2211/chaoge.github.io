@@ -1,0 +1,16 @@
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
+.cutshort {
+    height: 31px;
+    line-height: 31px;
+}
+
+.cutshort ul li {
+    display: inline;
+    font-size: 13px;
+}
+.font_style_red{
+    color:crimson;
+}
